@@ -4,11 +4,6 @@
 
 #solution:
 #function for print sentance and not take any parameters
-from calendar import prmonth
-from ctypes import Union
-from lib2to3.pytree import convert
-
-
 def hellopython():
     print("Hello'python!")
 hellopython()
