@@ -33,6 +33,7 @@ print((a+b+c+d+e)/5)
 #year=2021 #month=4
 
 #solution:
+from calendar import prmonth
 year=2021
 month=4
 #w=The width between two columns. Default value is 0.
